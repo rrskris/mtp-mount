@@ -53,6 +53,6 @@ umount)
 		fi
 	;;
 
-*) echo "Usage: $0 [mount|umount] [/path/to/mount] "
+*) echo "Usage: $0 <mount|umount> </path/to/mount> "
 	;;
 esac
